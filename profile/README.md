@@ -5,10 +5,9 @@ The LMMP is focused on fundamental and applied research of free surface flows of
 We combine theoretical, numerical, and experimental tools in the analyses.  The research projects are focused on four main application areas: Coating process, microencapsulation, flow through porous media and enhanced oil recovery, and emulsion formation and stability.
 
 We are continuously looking for exceptional researchers to join our team.  If you are interested in joining as a graduate student, post-doctoral researcher, and research staff, please contact us. 
+  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:msc@puc-rio.br)](mailto:msc@puc-rio.br) 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/lmmp-puc-rio/about/)](https://www.linkedin.com/company/lmmp-puc-rio/about/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:msc@puc-rio.br)](mailto:msc@puc-rio.br)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/lmmp-puc-rio/about/)](https://www.linkedin.com/company/lmmp-puc-rio/about/)  [![Home Page](https://img.shields.io/badge/Home%20page-0e0e0f)](https://www.linkedin.com/company/lmmp-puc-rio/about/) 
 
 
 ## Research Areas
@@ -30,6 +29,8 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 - [Anna Bia](https://github.com/annatrajano)
 
 - [Monique Dali](https://github.com/mfdali)
+
+- [Perdo Calderano](https://github.com/phscald)
 
 - [Rodrigo Lipparelli](https://github.com/rodlipparelli)
 
@@ -63,3 +64,9 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 * Others
   
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,latex)](https://skillicons.dev)
+
+
+## Partnership
+
+![image](https://github.com/lmmp-puc-rio/.github/assets/74414640/c8fa7e86-e955-4b4c-978e-ebdad5e53bf3)
+

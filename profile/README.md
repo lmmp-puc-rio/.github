@@ -28,9 +28,11 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 
 - [Anna Bia](https://github.com/annatrajano)
 
+- [Lucas Constantino](https://github.com/LucasConst)  
+
 - [Monique Dali](https://github.com/mfdali)
 
-- [Perdo Calderano](https://github.com/phscald)
+- [Pedro Calderano](https://github.com/phscald)
 
 - [Rodrigo Lipparelli](https://github.com/rodlipparelli)
 
@@ -41,6 +43,8 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 - [Renan Horta](https://github.com/renanhorta)
 
 - [Sergio Ribeiro](https://github.com/ssribeiroLMMP)
+
+- [Stélio Henrique](https://github.com/steliohlopes)
 
 - [Tarcila Garcia](https://github.com/tarcilasg)
 

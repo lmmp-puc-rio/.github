@@ -51,7 +51,7 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 - [Vinicius Mattoso](https://github.com/vinicius-mattoso)
 
 
-## 🔧 Technologies & Tools Used
+## 🔧 Tools & Technologies
 
 * Languages
   

@@ -1,10 +1,10 @@
 # Laboratory of Microhydrodynamics and Flow in Porous Media (LMMP)
 
-The LMMP is focused on fundamental and applied research of free surface flows of complex liquids in microscale.  Such flows occur in many natural and industrial processes, such as in the manufacturing of functional films using liquid coating processes, complex fluid displacement inside small channels and porous materials, flow of emulsions and dispersions and multiphase flow in microchannels.  Capillary effects are usually very important and the presence of fluid interfaces and the complex mechanical behavior lead to strong nonlinearities on the flow.
+The LMMP is focused on fundamental and applied research of free surface flows of complex liquids in microscale.  Such flows occur in many natural and industrial processes, such as in the manufacturing of functional films using liquid coating processes, complex fluid displacement inside small channels and porous materials, flow of emulsions and dispersions, and multiphase flow in microchannels.  Capillary effects are usually very important and the presence of fluid interfaces and complex mechanical behavior lead to strong nonlinearities in the flow.
 
 We combine theoretical, numerical, and experimental tools in the analyses.  The research projects are focused on four main application areas: Coating process, microencapsulation, flow through porous media and enhanced oil recovery, and emulsion formation and stability.
 
-We are continuously looking for exceptional researchers to join our team.  If you are interested in joining as a graduate student, post-doctoral researcher, and research staff, please contact us. 
+We are continuously looking for exceptional researchers to join our team.  If you are interested in joining as a graduate student, post-doctoral researcher, or research staff, please contact us. 
   
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:msc@puc-rio.br)](mailto:msc@puc-rio.br)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/lmmp-puc-rio/about/)](https://www.linkedin.com/company/lmmp-puc-rio/about/)  [![Home Page](https://img.shields.io/badge/Home%20page-0e0e0f)](https://www.linkedin.com/company/lmmp-puc-rio/about/) 
@@ -26,29 +26,103 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 
 ## Numerical Team
 
-- [Anna Bia](https://github.com/annatrajano)
+<table><tbody><tr><td align="center" valign="top" width="11%">
+<a href="https://github.com/annatrajano">
+<img src="https://github.com/annatrajano.png?s=75" width="75" height="75"><br />
+Anna Beatriz Trajano
+</a>
+  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/LucasConst">
+<img src="https://github.com/LucasConst.png?s=75" width="75" height="75"><br />
+Lucas Constantino
+</a>
+  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/mfdali">
+<img src="https://github.com/mfdali.png?s=75" width="75" height="75"><br />
+Monique Dali
+</a>
+  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/phscald">
+<img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
+Pedro Calderano
+</a>
 
-- [Lucas Constantino](https://github.com/LucasConst)  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/rodlipparelli">
+<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
+Rodrigo Lipparelli
+</a>
 
-- [Monique Dali](https://github.com/mfdali)
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/fcgomes">
+<img src="https://github.com/fcgomes.png?s=75" width="75" height="75"><br />
+Frederico Gomes
+</a>
 
-- [Pedro Calderano](https://github.com/phscald)
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/RenanFreixoBarbosa">
+<img src="https://github.com/RenanFreixoBarbosa.png?s=75" width="75" height="75"><br />
+Renan Freixo Barbosa
+</a>
 
-- [Rodrigo Lipparelli](https://github.com/rodlipparelli)
+</td></tr></tbody></table>
 
-- [Frederico Gomes](https://github.com/fcgomes)
+<table><tbody><tr><td align="center" valign="top" width="11%">
+<a href="https://github.com/renanhorta">
+<img src="https://github.com/renanhorta.png?s=75" width="75" height="75"><br />
+Renan Horta
+</a>
+  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/ssribeiroLMMP">
+<img src="https://github.com/ssribeiroLMMP.png?s=75" width="75" height="75"><br />
+Sergio Ribeiro
+</a>
+  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/steliohlopes">
+<img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
+Stelio henriques Lopes
+</a>
+  
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/tarcilasg">
+<img src="https://github.com/tarcilasg.png?s=75" width="75" height="75"><br />
+Tarcila Garcia
+</a>
 
-- [Renan Freixo](https://github.com/RenanFreixoBarbosa)
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/vinicius-mattoso">
+<img src="https://github.com/vinicius-mattoso.png?s=75" width="75" height="75"><br />
+Vinicius Mattoso
+</a>
 
-- [Renan Horta](https://github.com/renanhorta)
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/mnogueira-puc">
+<img src="https://github.com/mnogueira-puc.png?s=75" width="75" height="75"><br />
+Mateus Nogueira
+</a>
 
-- [Sergio Ribeiro](https://github.com/ssribeiroLMMP)
+</td><td align="center" valign="top" width="11%">
+<a href="https://github.com/mAmaral99">
+<img src="https://github.com/mAmaral99.png?s=75" width="75" height="75"><br />
+Matheus Amaral
+</a>
 
-- [Stélio Henrique](https://github.com/steliohlopes)
+</td></tr></tbody></table>
 
-- [Tarcila Garcia](https://github.com/tarcilasg)
+</td></tr></tbody></table>
 
-- [Vinicius Mattoso](https://github.com/vinicius-mattoso)
+<table><tbody><tr><td align="center" valign="top" width="11%">
+<a href="https://github.com/paulinha-19">
+<img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
+Paula Soares
+</a>
+  
+</td></tr></tbody></table>
 
 
 ## 🔧 Tools & Technologies

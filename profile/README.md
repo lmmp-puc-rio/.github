@@ -121,6 +121,11 @@ Matheus Amaral
 <img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
 Paula Soares
 </a>
+
+<a href="https://github.com/Danmerm">
+<img src="https://github.com/Danmerm.png?s=75" width="75" height="75"><br />
+Danmer Maza
+</a>
   
 </td></tr></tbody></table>
 

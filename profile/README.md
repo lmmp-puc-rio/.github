@@ -26,109 +26,108 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 
 ## Numerical Team
 
-<table><tbody><tr><td align="center" valign="top" width="11%">
-<a href="https://github.com/annatrajano">
-<img src="https://github.com/annatrajano.png?s=75" width="75" height="75"><br />
-Anna Beatriz Trajano
-</a>
-  
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/LucasConst">
-<img src="https://github.com/LucasConst.png?s=75" width="75" height="75"><br />
-Lucas Constantino
-</a>
-  
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/mfdali">
-<img src="https://github.com/mfdali.png?s=75" width="75" height="75"><br />
-Monique Dali
-</a>
-  
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/phscald">
-<img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
-Pedro Calderano
-</a>
-
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/rodlipparelli">
-<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
-Rodrigo Lipparelli
-</a>
-
-</td><td align="center" valign="top" width="11%">
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
 <a href="https://github.com/fcgomes">
 <img src="https://github.com/fcgomes.png?s=75" width="75" height="75"><br />
 Frederico Gomes
-</a>
+</a></td>
 
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/RenanFreixoBarbosa">
-<img src="https://github.com/RenanFreixoBarbosa.png?s=75" width="75" height="75"><br />
-Renan Freixo Barbosa
-</a>
-
-</td></tr></tbody></table>
-
-<table><tbody><tr><td align="center" valign="top" width="11%">
-<a href="https://github.com/renanhorta">
-<img src="https://github.com/renanhorta.png?s=75" width="75" height="75"><br />
-Renan Horta
-</a>
-  
-</td><td align="center" valign="top" width="11%">
+<td align="center" valign="top" width="11%">
 <a href="https://github.com/ssribeiroLMMP">
 <img src="https://github.com/ssribeiroLMMP.png?s=75" width="75" height="75"><br />
 Sergio Ribeiro
-</a>
-  
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/steliohlopes">
-<img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
-Stelio henriques Lopes
-</a>
-  
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/tarcilasg">
-<img src="https://github.com/tarcilasg.png?s=75" width="75" height="75"><br />
-Tarcila Garcia
-</a>
+</a></td>
 
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/vinicius-mattoso">
-<img src="https://github.com/vinicius-mattoso.png?s=75" width="75" height="75"><br />
-Vinicius Mattoso
-</a>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/annatrajano">
+<img src="https://github.com/annatrajano.png?s=75" width="75" height="75"><br />
+Anna Beatriz Trajano
+</a></td>
 
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/mnogueira-puc">
-<img src="https://github.com/mnogueira-puc.png?s=75" width="75" height="75"><br />
-Mateus Nogueira
-</a>
-
-</td><td align="center" valign="top" width="11%">
-<a href="https://github.com/mAmaral99">
-<img src="https://github.com/mAmaral99.png?s=75" width="75" height="75"><br />
-Matheus Amaral
-</a>
-
-</td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-<table><tbody><tr><td align="center" valign="top" width="11%">
-<a href="https://github.com/paulinha-19">
-<img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
-Paula Soares
-</a>
-  
-</td><td align="center" valign="top" width="11%">
+<td align="center" valign="top" width="11%">
 <a href="https://github.com/Danmerm">
 <img src="https://github.com/Danmerm.png?s=75" width="75" height="75"><br />
 Danmer Maza
-</a>
+</a></td>
   
-</td></tr></tbody></table>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/LucasConst">
+<img src="https://github.com/LucasConst.png?s=75" width="75" height="75"><br />
+Lucas Constantino
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/mAmaral99">
+<img src="https://github.com/mAmaral99.png?s=75" width="75" height="75"><br />
+Matheus Amaral
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/mnogueira-puc">
+<img src="https://github.com/mnogueira-puc.png?s=75" width="75" height="75"><br />
+Mateus Nogueira
+</a></td></tr></tbody></table>
+
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/paulinha-19">
+<img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
+Paula Soares
+</a></td>
+  
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/phscald">
+<img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
+Pedro Calderano
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/RenanFreixoBarbosa">
+<img src="https://github.com/RenanFreixoBarbosa.png?s=75" width="75" height="75"><br />
+Renan Freixo Barbosa
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/renanhorta">
+<img src="https://github.com/renanhorta.png?s=75" width="75" height="75"><br />
+Renan Horta
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/rodlipparelli">
+<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
+Rodrigo Lipparelli
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/steliohlopes">
+<img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
+Stelio Henriques Lopes
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/tarcilasg">
+<img src="https://github.com/tarcilasg.png?s=75" width="75" height="75"><br />
+Tarcila Garcia
+</a></td>
+
+</a></td></tr></tbody></table>
+
+### Collaborators
+
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/vinicius-mattoso">
+<img src="https://github.com/vinicius-mattoso.png?s=75" width="75" height="75"><br />
+Vinicius Mattoso
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/mfdali">
+<img src="https://github.com/mfdali.png?s=75" width="75" height="75"><br />
+Monique Dali
+</a></td></tr></tbody></table>
 
 
 ## 🔧 Tools & Technologies

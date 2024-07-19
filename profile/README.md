@@ -23,8 +23,9 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 * [Fundamentals of Coating Process](http://tmp-lmmp.mec.puc-rio.br/research/fundamentals-of-coating-process/)
 
 
+## Our Memembers
 
-## Numerical Team
+### Numerical Research Team
 
 <table><tbody><tr>
 <td align="center" valign="top" width="11%">
@@ -40,15 +41,10 @@ Sergio Ribeiro
 </a></td>
 
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/annatrajano">
-<img src="https://github.com/annatrajano.png?s=75" width="75" height="75"><br />
-Anna Beatriz Trajano
-</a></td>
-
-<td align="center" valign="top" width="11%">
 <a href="https://github.com/Danmerm">
 <img src="https://github.com/Danmerm.png?s=75" width="75" height="75"><br />
 Danmer Maza
+</a></td>
 </a></td>
   
 <td align="center" valign="top" width="11%">
@@ -64,28 +60,57 @@ Matheus Amaral
 </a></td>
 
 <td align="center" valign="top" width="11%">
+<a href="https://github.com/rodlipparelli">
+<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
+Rodrigo Lipparelli
+</a></td></tr></tbody></table>
+
+### Frontend Devs
+
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/annatrajano">
+<img src="https://github.com/annatrajano.png?s=75" width="75" height="75"><br />
+Anna Beatriz Trajano
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/paulinha-19">
+<img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
+Paula Soares
+</a></td></tr></tbody></table>
+
+### Backend Devs
+
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/RenanFreixoBarbosa">
+<img src="https://github.com/RenanFreixoBarbosa.png?s=75" width="75" height="75"><br />
+Renan Freixo Barbosa
+</a></td>
+  
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/tarcilasg">
+<img src="https://github.com/tarcilasg.png?s=75" width="75" height="75"><br />
+Tarcila Garcia
+</a></td></tr></tbody></table>
+
+### DevOps
+
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
 <a href="https://github.com/mnogueira-puc">
 <img src="https://github.com/mnogueira-puc.png?s=75" width="75" height="75"><br />
 Mateus Nogueira
 </a></td></tr></tbody></table>
 
-<table><tbody><tr>
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/paulinha-19">
-<img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
-Paula Soares
-</a></td>
-  
+### Students/Interns
+
+<table><tbody><tr> 
 <td align="center" valign="top" width="11%">
 <a href="https://github.com/phscald">
 <img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
 Pedro Calderano
-</a></td>
-
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/RenanFreixoBarbosa">
-<img src="https://github.com/RenanFreixoBarbosa.png?s=75" width="75" height="75"><br />
-Renan Freixo Barbosa
 </a></td>
 
 <td align="center" valign="top" width="11%">
@@ -95,23 +120,9 @@ Renan Horta
 </a></td>
 
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/rodlipparelli">
-<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
-Rodrigo Lipparelli
-</a></td>
-
-<td align="center" valign="top" width="11%">
 <a href="https://github.com/steliohlopes">
 <img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
 Stelio Henriques Lopes
-</a></td>
-
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/tarcilasg">
-<img src="https://github.com/tarcilasg.png?s=75" width="75" height="75"><br />
-Tarcila Garcia
-</a></td>
-
 </a></td></tr></tbody></table>
 
 ### Collaborators

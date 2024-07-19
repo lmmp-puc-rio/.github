@@ -4,10 +4,8 @@ The LMMP is focused on fundamental and applied research of free surface flows of
 
 We combine theoretical, numerical, and experimental tools in the analyses.  The research projects are focused on four main application areas: Coating process, microencapsulation, flow through porous media and enhanced oil recovery, and emulsion formation and stability.
 
-We are continuously looking for exceptional researchers to join our team.  If you are interested in joining as a graduate student, post-doctoral researcher, or research staff, please contact us. 
-  
+We are continuously looking for exceptional researchers to join our team.  If you are interested in joining as a grad student, post-doc, or research staff, please contact us. Visit our [Home Page](http://lmmp.mec.puc-rio.br/) or send an [e-mail](mailto:msc@puc-rio.br). You can also find us at [LinkedIn](https://www.linkedin.com/company/lmmp-puc-rio/about/)!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:msc@puc-rio.br)](mailto:msc@puc-rio.br)  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/lmmp-puc-rio/about/)](https://www.linkedin.com/company/lmmp-puc-rio/about/)  [![Home Page](https://img.shields.io/badge/Home%20page-0e0e0f)](https://www.linkedin.com/company/lmmp-puc-rio/about/) 
 
 
 ## Research Areas

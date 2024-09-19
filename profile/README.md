@@ -106,9 +106,21 @@ Mateus Nogueira
 
 <table><tbody><tr> 
 <td align="center" valign="top" width="11%">
+<a href="https://github.com/jmatavares">
+<img src="https://github.com/jmatavares.png?s=75" width="75" height="75"><br />
+Jamile Tavares
+</a></td>
+
+<td align="center" valign="top" width="11%">
 <a href="https://github.com/phscald">
 <img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
 Pedro Calderano
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/raysagoms">
+<img src="https://github.com/raysagoms.png?s=75" width="75" height="75"><br />
+Raysa Santos 
 </a></td>
 
 <td align="center" valign="top" width="11%">
@@ -136,6 +148,12 @@ Vinicius Mattoso
 <a href="https://github.com/mfdali">
 <img src="https://github.com/mfdali.png?s=75" width="75" height="75"><br />
 Monique Dali
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/jvitordeoliveira96">
+<img src="https://github.com/jvitordeoliveira96.png?s=75" width="75" height="75"><br />
+João Vitor Oliveira
 </a></td></tr></tbody></table>
 
 

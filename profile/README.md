@@ -98,7 +98,13 @@ Mateus Nogueira
 
 ### Students/Interns
 
-<table><tbody><tr> 
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/cartaxocaio">
+<img src="https://github.com/cartaxocaio.png?s=75" width="75" height="75"><br />
+Caio Cartaxo
+</a></td>
+
 <td align="center" valign="top" width="11%">
 <a href="https://github.com/jmatavares">
 <img src="https://github.com/jmatavares.png?s=75" width="75" height="75"><br />
@@ -121,12 +127,6 @@ Raysa Santos
 <a href="https://github.com/renanhorta">
 <img src="https://github.com/renanhorta.png?s=75" width="75" height="75"><br />
 Renan Horta
-</a></td>
-
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/cartaxocaio">
-<img src="https://github.com/cartaxocaio.png?s=75" width="75" height="75"><br />
-Caio Vinicius Santos Cartaxo
 </a></td></tr></tbody></table>
 
 

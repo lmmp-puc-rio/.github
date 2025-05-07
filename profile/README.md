@@ -140,9 +140,9 @@ Frederico Gomes
 </a></td>
   
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/vinicius-mattoso">
-<img src="https://github.com/vinicius-mattoso.png?s=75" width="75" height="75"><br />
-Vinicius Mattoso
+<a href="https://github.com/jvitordeoliveira96">
+<img src="https://github.com/jvitordeoliveira96.png?s=75" width="75" height="75"><br />
+João Vitor Oliveira
 </a></td>
 
 <td align="center" valign="top" width="11%">
@@ -158,10 +158,11 @@ Monique Dali
 </a></td>
 
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/jvitordeoliveira96">
-<img src="https://github.com/jvitordeoliveira96.png?s=75" width="75" height="75"><br />
-João Vitor Oliveira
-</a></td></tr></tbody></table>
+<a href="https://github.com/vinicius-mattoso">
+<img src="https://github.com/vinicius-mattoso.png?s=75" width="75" height="75"><br />
+Vinicius Mattoso
+</a></td>
+</tr></tbody></table>
 
 
 ## 🔧 Tools & Technologies

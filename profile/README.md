@@ -27,12 +27,6 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 
 <table><tbody><tr>
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/fcgomes">
-<img src="https://github.com/fcgomes.png?s=75" width="75" height="75"><br />
-Frederico Gomes
-</a></td>
-
-<td align="center" valign="top" width="11%">
 <a href="https://github.com/ssribeiroLMMP">
 <img src="https://github.com/ssribeiroLMMP.png?s=75" width="75" height="75"><br />
 Sergio Ribeiro
@@ -52,15 +46,15 @@ Lucas Constantino
 </a></td>
 
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/mAmaral99">
-<img src="https://github.com/mAmaral99.png?s=75" width="75" height="75"><br />
-Matheus Amaral
-</a></td>
-
-<td align="center" valign="top" width="11%">
 <a href="https://github.com/rodlipparelli">
 <img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
 Rodrigo Lipparelli
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/steliohlopes">
+<img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
+Stelio Henriques Lopes
 </a></td></tr></tbody></table>
 
 ### Frontend Devs
@@ -130,18 +124,31 @@ Renan Horta
 </a></td>
 
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/steliohlopes">
-<img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
-Stelio Henriques Lopes
+<a href="https://github.com/caiocartaxo">
+<img src="https://github.com/.png?s=75" width="75" height="75"><br />
+Caio Vinicius Santos Cartaxo
 </a></td></tr></tbody></table>
+
 
 ### Collaborators
 
 <table><tbody><tr>
 <td align="center" valign="top" width="11%">
+<a href="https://github.com/fcgomes">
+<img src="https://github.com/fcgomes.png?s=75" width="75" height="75"><br />
+Frederico Gomes
+</a></td>
+  
+<td align="center" valign="top" width="11%">
 <a href="https://github.com/vinicius-mattoso">
 <img src="https://github.com/vinicius-mattoso.png?s=75" width="75" height="75"><br />
 Vinicius Mattoso
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/mAmaral99">
+<img src="https://github.com/mAmaral99.png?s=75" width="75" height="75"><br />
+Matheus Amaral
 </a></td>
 
 <td align="center" valign="top" width="11%">

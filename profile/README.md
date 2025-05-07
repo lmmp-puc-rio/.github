@@ -124,8 +124,8 @@ Renan Horta
 </a></td>
 
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/caiocartaxo">
-<img src="https://github.com/.png?s=75" width="75" height="75"><br />
+<a href="https://github.com/cartaxocaio">
+<img src="https://github.com/cartaxocaio.png?s=75" width="75" height="75"><br />
 Caio Vinicius Santos Cartaxo
 </a></td></tr></tbody></table>
 

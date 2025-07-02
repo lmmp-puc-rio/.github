@@ -115,12 +115,6 @@ Pedro Calderano
 <a href="https://github.com/raysagoms">
 <img src="https://github.com/raysagoms.png?s=75" width="75" height="75"><br />
 Raysa Santos 
-</a></td>
-
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/renanhorta">
-<img src="https://github.com/renanhorta.png?s=75" width="75" height="75"><br />
-Renan Horta
 </a></td></tr></tbody></table>
 
 

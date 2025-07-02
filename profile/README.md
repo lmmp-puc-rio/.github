@@ -180,5 +180,4 @@ Vinicius Mattoso
 
 ## Partnership
 
-![image](https://github.com/lmmp-puc-rio/.github/assets/74414640/c8fa7e86-e955-4b4c-978e-ebdad5e53bf3)
-
+![image](https://github.com/user-attachments/assets/af071720-8862-4a18-bc98-26c6314b274f)

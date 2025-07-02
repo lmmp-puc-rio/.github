@@ -40,15 +40,15 @@ Danmer Maza
 </a></td>
   
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/LucasConst">
-<img src="https://github.com/LucasConst.png?s=75" width="75" height="75"><br />
-Lucas Constantino
-</a></td>
-
-<td align="center" valign="top" width="11%">
 <a href="https://github.com/rodlipparelli">
 <img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
 Rodrigo Lipparelli
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/LucasConst">
+<img src="https://github.com/LucasConst.png?s=75" width="75" height="75"><br />
+Lucas Constantino
 </a></td>
 
 <td align="center" valign="top" width="11%">

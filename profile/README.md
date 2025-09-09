@@ -21,7 +21,7 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 * [Fundamentals of Coating Process](http://tmp-lmmp.mec.puc-rio.br/research/fundamentals-of-coating-process/)
 
 
-## Our Memembers
+## Our Members
 
 ### Numerical Research Team
 

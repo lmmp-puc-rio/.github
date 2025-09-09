@@ -55,6 +55,12 @@ Lucas Constantino
 <a href="https://github.com/steliohlopes">
 <img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
 Stelio Henriques Lopes
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/gerlero">
+<img src="https://github.com/gerlero.png?s=75" width="75" height="75"><br />
+Gabriel Gerlero
 </a></td></tr></tbody></table>
 
 ### Frontend Devs

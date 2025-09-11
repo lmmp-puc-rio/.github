@@ -40,15 +40,34 @@ Danmer Maza
 </a></td>
   
 <td align="center" valign="top" width="11%">
-<a href="https://github.com/rodlipparelli">
-<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
-Rodrigo Lipparelli
+<a href="https://github.com/gerlero">
+<img src="https://github.com/gerlero.png?s=75" width="75" height="75"><br />
+Gabriel Gerlero
 </a></td>
 
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/GladysLMMP">
+<img src="https://github.com/GladysLMMP.png?s=75" width="75" height="75"><br />
+Gladys Navarte
+</a></td></tr></tbody>
+
+<tr><tbody>
 <td align="center" valign="top" width="11%">
 <a href="https://github.com/LucasConst">
 <img src="https://github.com/LucasConst.png?s=75" width="75" height="75"><br />
 Lucas Constantino
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/phscald">
+<img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
+Pedro Calderano
+</a></td>
+
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/rodlipparelli">
+<img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
+Rodrigo Lipparelli
 </a></td>
 
 <td align="center" valign="top" width="11%">
@@ -103,12 +122,6 @@ Caio Cartaxo
 <a href="https://github.com/jmatavares">
 <img src="https://github.com/jmatavares.png?s=75" width="75" height="75"><br />
 Jamile Tavares
-</a></td>
-
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/phscald">
-<img src="https://github.com/phscald.png?s=75" width="75" height="75"><br />
-Pedro Calderano
 </a></td>
 
 <td align="center" valign="top" width="11%">

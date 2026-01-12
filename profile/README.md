@@ -77,9 +77,9 @@ Rodrigo Lipparelli
 <a href="https://github.com/paulinha-19">
 <img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
 Paula Soares
-</a></td></tr></tbody></table>
+</a></td></tbody></table>
 
-<table><tbody><tr>
+<table><tbody>
 <td align="center" valign="top" width="11%">
 <a href="https://github.com/mayzasantos">
 <img src="https://github.com/mayzasantos.png?s=75" width="75" height="75"><br />

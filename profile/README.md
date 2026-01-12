@@ -70,12 +70,6 @@ Pedro Calderano
 Rodrigo Lipparelli
 </a></td>
 
-<td align="center" valign="top" width="11%">
-<a href="https://github.com/steliohlopes">
-<img src="https://github.com/steliohlopes.png?s=75" width="75" height="75"><br />
-Stelio Henriques Lopes
-</a></td></tr></tbody></table>
-
 ### Frontend Devs
 
 <table><tbody><tr>
@@ -83,6 +77,13 @@ Stelio Henriques Lopes
 <a href="https://github.com/paulinha-19">
 <img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
 Paula Soares
+</a></td></tr></tbody></table>
+
+<table><tbody><tr>
+<td align="center" valign="top" width="11%">
+<a href="https://github.com/mayzasantos">
+<img src="https://github.com/mayzasantos.png?s=75" width="75" height="75"><br />
+Mayza Santos
 </a></td></tr></tbody></table>
 
 ### Backend Devs

@@ -68,23 +68,22 @@ Pedro Calderano
 <a href="https://github.com/rodlipparelli">
 <img src="https://github.com/rodlipparelli.png?s=75" width="75" height="75"><br />
 Rodrigo Lipparelli
-</a></td>
+</a></td><tr></tbody></table>
 
 ### Frontend Devs
 
 <table><tbody><tr>
 <td align="center" valign="top" width="11%">
 <a href="https://github.com/paulinha-19">
-<img src="https://github.com/paulinha-19.png?s=75" width="75" height="75"><br />
+<img src="https://github.com/paulinha-19.png?s=75" width="75" height="74"><br />
 Paula Soares
-</a></td></tbody></table>
+</a></td>
 
-<table><tbody>
 <td align="center" valign="top" width="11%">
 <a href="https://github.com/mayzasantos">
-<img src="https://github.com/mayzasantos.png?s=75" width="75" height="75"><br />
+<img src="https://github.com/mayzasantos.png?s=75" width="75" height="74"><br />
 Mayza Santos
-</a></td></tr></tbody></table>
+</a></td><tr></tbody></table>
 
 ### Backend Devs
 

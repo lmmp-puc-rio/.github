@@ -43,6 +43,9 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 <a href="https://github.com/phscald">
   <img src="https://github.com/phscald.png?s=80" width="80" style="border-radius: 50%;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Rohit-lmmp">
+  <img src="https://github.com/Rohit-lmmp.png?s=80" width="80" style="border-radius: 50%;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/rodlipparelli">
   <img src="https://github.com/rodlipparelli.png?s=80" width="80" style="border-radius: 50%;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,6 +60,7 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 <a href="https://github.com/GladysLMMP">Gladys Navarte</a> · 
 <a href="https://github.com/LucasConst">Lucas Constantino</a> · 
 <a href="https://github.com/phscald">Pedro Calderano</a> · 
+<a href="https://github.com/Rohit-lmmp">Rohit Gulia</a> · 
 <a href="https://github.com/rodlipparelli">Rodrigo Lipparelli</a> · 
 <a href="https://github.com/ssribeiroLMMP">Sergio Ribeiro</a>
 

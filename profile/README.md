@@ -111,16 +111,12 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 <a href="https://github.com/raysagoms">
   <img src="https://github.com/raysagoms.png?s=80" width="80" style="border-radius: 50%;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/giovanna-vonbun">
-  <img src="https://github.com/giovanna-vonbun.png?s=80" width="80" style="border-radius: 50%;">
-</a>
 
 <br>
 
 <a href="https://github.com/cartaxocaio">Caio Cartaxo</a> · 
 <a href="https://github.com/jmatavares">Jamile Tavares</a> · 
 <a href="https://github.com/raysagoms">Raysa Santos</a> · 
-<a href="https://github.com/giovanna-vonbun">Giovanna Vonbun</a>
 
 </div>
 

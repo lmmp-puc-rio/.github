@@ -48,7 +48,8 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Rohit-lmmp">
   <img src="https://github.com/Rohit-lmmp.png?s=80" width="80" style="border-radius: 50%;">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>
+<br>
 <a href="https://github.com/rodlipparelli">
   <img src="https://github.com/rodlipparelli.png?s=80" width="80" style="border-radius: 50%;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;

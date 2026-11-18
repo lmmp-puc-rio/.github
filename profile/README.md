@@ -27,7 +27,10 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 ### Numerical Research
 
 <div align="center">
-  
+
+<a href="https://github.com/Danmerm">
+  <img src="https://github.com/alanmaioli.png?s=80" width="80" style="border-radius: 50%;">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Danmerm">
   <img src="https://github.com/Danmerm.png?s=80" width="80" style="border-radius: 50%;">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,12 +58,14 @@ We are continuously looking for exceptional researchers to join our team.  If yo
 
 <br>
 
+<a href="https://github.com/alanmaioli">Alan Maioli</a> · 
 <a href="https://github.com/Danmerm">Danmer Maza</a> · 
 <a href="https://github.com/gerlero">Gabriel Gerlero</a> · 
 <a href="https://github.com/GladysLMMP">Gladys Navarte</a> · 
 <a href="https://github.com/LucasConst">Lucas Constantino</a> · 
 <a href="https://github.com/phscald">Pedro Calderano</a> · 
-<a href="https://github.com/Rohit-lmmp">Rohit Gulia</a> · 
+<a href="https://github.com/Rohit-lmmp">Rohit Gulia</a>
+<br>
 <a href="https://github.com/rodlipparelli">Rodrigo Lipparelli</a> · 
 <a href="https://github.com/ssribeiroLMMP">Sergio Ribeiro</a>
 
